@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-'''
-Day 1
-Inverse Captcha
-Part 2
-'''
-
 import time
 
 infile = './input.txt'
