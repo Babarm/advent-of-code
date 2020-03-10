@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-
-'''
-Day X
-Challenge Title
-Part 1
-'''
-
 import time
 
 infile = './input.txt'
