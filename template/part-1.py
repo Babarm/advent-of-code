@@ -6,10 +6,19 @@ Challenge Title
 Part 1
 '''
 
+import time
+
 infile = './input.txt'
 
 def main():
-    pass
+    start_time = time.time()
+
+    # read puzzle input
+    with open(infile) as f:
+        pass
+
+    end_time = time.time()
+    print('completed in {:.3f} sec'.format(end_time - start_time))
 
 if __name__ == '__main__':
     main()
